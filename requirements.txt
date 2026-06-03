@@ -1,0 +1,7 @@
+Pandas: 2.2.1
+NumPy: 1.26.4
+Matplotlib: 3.8.4
+Seaborn: 0.12.2
+Plotly: 5.9.0
+SQLAlchemy: 2.0.25
+Jupyter Core: 5.5.0
