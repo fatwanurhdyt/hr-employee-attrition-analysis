@@ -116,6 +116,7 @@ data cleaning → exploratory data analysis → feature engineering → Tableau 
 | 6 | Job Involvement | Employees with low job involvement had the highest attrition rate at **33.7%**, while employees with very high involvement had the lowest rate at **9.0%**. |
 | 7 | Income Group | Low-income employees showed the highest attrition rate at **28.6%**, while high-income employees had the lowest rate at **3.8%**. |
 | 8 | Tenure Group | Employees with less than 1 year at the company had the highest attrition rate at **34.9%**, while employees with more than 10 years had the lowest rate at **8.1%**. |
+| 9 | Employee Segments | Overtime, Sales roles, frequent travel, low job involvement, low income, and short tenure are the strongest risk signals. |
 
 ---
 
