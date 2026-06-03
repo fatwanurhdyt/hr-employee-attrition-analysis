@@ -1,4 +1,4 @@
-# HR Attrition Analysis
+# HR Employee Attrition Analysis
 
 > **A data analyst portfolio project analyzing employee attrition patterns using Python (Jupyter Notebook) and Tableau. The dataset contains 1.470 employee records, covering department, job role, overtime, business travel, satisfaction, income, and tenure factors to identify key attrition risk segments.**
 
